@@ -1,7 +1,10 @@
 # WinningPy
 Toy python chess engine
 
-WinningPy is a possibly slightly buggy, but more or less functional chess engine, written for the purpose of learning some object oriented programming in python. Its development was cut short by actual work coming up, but it is possible to play a game against it. Its most prominent feature is the shiny ascii output: 
+WinningPy is a possibly slightly buggy, but more or less functional chess engine, 
+written for the purpose of learning some object oriented programming in python. 
+Its development was cut short by actual work coming up, but it is possible to play a game against it. 
+Its most prominent feature is the shiny ascii output: 
 
 +-------+-------+-------+-------+-------+-------+-------+-------+
 | [_|_] |.......|       |.......|  \+/  |.......|       |.[_|_].|
@@ -48,5 +51,7 @@ WinningPy is a possibly slightly buggy, but more or less functional chess engine
 depth=4 Wert:  -1.075 Zug:  e8-c8
 depth=4 Wert:  -1.725 Zug:  f5-f6
 
-Here you see it kicking my ass after I mistyped a move. Moves are input as combination of starting square and target square. For example e2e4 would be a common opening move. 
+Here you see it kicking my ass after I mistyped a move. 
+Moves are input as combination of starting square and target square. 
+For example e2e4 would be a common opening move. 
 
